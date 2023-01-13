@@ -1,0 +1,21 @@
+{
+  "name": "playwright-spielwiese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvenSchneiderDVAG/Playwright-Spielwiese.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvenSchneiderDVAG/Playwright-Spielwiese/issues"
+  },
+  "homepage": "https://github.com/SvenSchneiderDVAG/Playwright-Spielwiese#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
